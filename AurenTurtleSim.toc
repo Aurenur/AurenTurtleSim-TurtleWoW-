@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: AurenTurtleSim
+## Notes: Dynamic Talent Builder & Simulator with Profile Management for Turtle WoW 1.12.1
+## SavedVariables: AurenTurtleSimDB_Data, AurenTurtleSimDB_SavedSpecs
+
+Core.lua
+Database.lua
+UI.lua
